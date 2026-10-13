@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Prince Patel 👋
 
-<!--
-**princepatel40876-source/princepatel40876-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BTech Computer Science Student | Python & Data Analytics Learner
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- 🎓 Computer Science student
+- 🌱 Learning Python and Data Analytics
+- 💻 Practicing coding and problem-solving
+- 📊 Interested in data analysis and visualization
+
+## Skills I'm Learning
+- Python
+- Jupyter Notebook
+- Git and GitHub
+
+## My Goals
+- Build useful coding projects
+- Improve my programming skills
+- Learn new technologies
+
+Thanks for visiting my profile! 🚀
